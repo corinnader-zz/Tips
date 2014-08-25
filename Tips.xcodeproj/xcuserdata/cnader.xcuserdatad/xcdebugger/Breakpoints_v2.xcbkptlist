@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips/ViewController.swift"
+            timestampString = "430607734.635007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.tipLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612518.781414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.tipLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612518.78159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(nibName : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, bundle : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSBundle&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612518.781722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)() -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612518.781838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(coder : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSCoder&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612518.781957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips/ViewController.swift"
+            timestampString = "430612522.619445"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612522.623561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612522.623753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(nibName : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, bundle : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSBundle&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612522.623894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)() -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612522.624028"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(coder : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSCoder&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612522.62417"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tips/ViewController.swift"
+            timestampString = "430612523.973241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.totalLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612523.977532"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.totalLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612523.97773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(nibName : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;, bundle : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSBundle&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612523.977881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)() -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612523.978022"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(coder : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSCoder&gt;) -&gt; Tips.ViewController"
+                  moduleName = "Tips"
+                  urlString = "file:///Users/cnader/Documents/CodePath/Tips/Tips/ViewController.swift"
+                  timestampString = "430612523.978179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "134">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
