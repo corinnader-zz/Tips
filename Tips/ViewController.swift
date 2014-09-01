@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 Corin Nader. All rights reserved.
 //
 
+
+
 import UIKit
 
 class ViewController: UIViewController {
@@ -14,7 +16,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -44,5 +45,8 @@ class ViewController: UIViewController {
     @IBAction func onTap(sender: AnyObject) {
         view.endEditing(true)
     }
+
 }
+
+
 
